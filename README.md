@@ -1,2 +1,3 @@
 # random poem
- displaying text
+ "Exodus,fluxus,intersections,diaspora,stagnance
+ Intermittent transits in between borders"
